@@ -121,7 +121,7 @@ Contacts are stored in JSON format:
     {
       "id": 1,
       "name": "John Doe",
-      "phone": "+1-555-0123",
+      "phone": "+49-123-45678901",
       "email": "john.doe@example.com",
       "address": "123 Main St, City, State",
       "notes": "College friend",
@@ -189,7 +189,7 @@ Potential features to add:
 - [ ] Contact merge functionality
 - [ ] Export to vCard format
 
-## 🐛 Known Issues
+## Known Issues
 
 - Phone number validation is basic (can be enhanced with regex)
 - No duplicate contact detection

@@ -3,6 +3,14 @@ Learning Project: CRUD system for managing contacts with Python and JSON. It all
 
 Learning Project: 
 
+## 📸 Screenshots
+
+### Main Menu
+![Menu](screenshots/menu.png)
+
+### Adding Contact
+![Add](screenshots/add_contact.png)
+
 # 📇 Agenda CRUD JSON
 
 A simple yet powerful contact management system built with Python. This project demonstrates CRUD operations (Create, Read, Update, Delete) with JSON file persistence.

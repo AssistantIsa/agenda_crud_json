@@ -12,6 +12,7 @@ contactos.backup.*
 
 # Archivos temporales de Python
 __pycache__/
+*.pvc
 *.py[cod]
 *$py.class
 *.so
@@ -29,7 +30,8 @@ ENV/
 *.swp
 *.swo
 *~
-
+# Sistema
+.DS_Store
 # Sistema operativo
 .DS_Store
 Thumbs.db
